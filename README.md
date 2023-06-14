@@ -1,4 +1,4 @@
 # MyProfile
-This repository is a personal profile website.
+This repository is purpose to test AWS CodeBuild.
 # awscodebuild-lab
-# awscodebuild-lab
+
