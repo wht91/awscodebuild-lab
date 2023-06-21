@@ -1,9 +1,7 @@
-import { useState } from 'react'
 import myImage from './assets/my-image.png'
 import './App.css'
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
